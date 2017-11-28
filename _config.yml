@@ -20,9 +20,9 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-contentful-data-import]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           ENV_TITLE
-description:	       ENV_ABOUT
-author:              ENV_AUTHOR
+title:		           Career Diva - Yoga, Life Coaching, Recruiting.
+description:	       Eve Tahmincioglu is an award winning columnist and career author who gives practical and witty career suggestions on this top-rated careers blog.
+author:              Mr. Isaiah Nitzsche
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
