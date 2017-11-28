@@ -20,9 +20,9 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-contentful-data-import]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           ENV_TITLE
-description:	       ENV_ABOUT
-author:              ENV_AUTHOR
+title:		           Career Guidance | Canada
+description:	       Your number one source for career advice in Canada.
+author:              Denis Hartmann
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
