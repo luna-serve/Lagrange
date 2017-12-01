@@ -1,6 +1,7 @@
 ---
 title: 50 Career Advice To Land You A Job In 2017
 date: 2017-12-01 13:25:59
+layout: post
 ---
 
 ## Test Content
