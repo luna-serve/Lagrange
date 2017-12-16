@@ -12,11 +12,12 @@
 
 # jekyll-paginate configuration
 paginate:            5
+baseurl: /blog 
 
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
-permalink:           /blog/:categories/:year/:month/:day/:title.html
+permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-contentful-data-import]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
